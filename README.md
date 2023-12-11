@@ -19,8 +19,8 @@ Either:
 - Separately install packages and run `train.py` and `test.py`
   e.x.:
   `sudo pip install pandas sklearn joblib nltk`
-  `./src/train.py`
-  `./src/test.py`
+  `python ./src/train.py`
+  `python ./src/test.py`
 
 # Note:
 
